@@ -14,9 +14,6 @@ The repository for "Tubby," the prototype autonomous boat, serves as the central
 
 
 
-
-
-
 ## :link: Links
 - **Github Org:** [Open-Source-Autonomous-Boat](https://github.com/Open-Source-Autonomous-Boat/)
 - **Website:** [osab.xyz](https://osab.xyz/)
