@@ -1,27 +1,25 @@
 # Tubby-CAD
 
-The repository for "Tubby," the prototype autonomous boat, serves as the central hub for all CAD (Computer-Aided Design) files related to this prototype. This repository ensures that every iteration and modification of the boat's design is meticulously documented, facilitating seamless collaboration and version control among team members from around the world.
+Welcome to the repository for "Tubby," the prototype autonomous boat. This repository is the central hub for all CAD (Computer-Aided Design) files related to this project. It ensures that every iteration and modification of the boat's design is meticulously documented, facilitating seamless collaboration and version control among team members from around the world.
 
-## It Includes :scroll: :
-* Fusion 360 Design Files(f3d) which can be edited.
-* STL files which are ready to slice
-* G-Code of the respective files for printing
-* [A Version Control Log and Metadata Sheet](https://docs.google.com/spreadsheets/d/1e0gY-1W_2MSWGN5Q40rwG2S-sfdZsmenmMunjMrRVBs/edit?usp=sharing)
+## Contents :scroll:
+- **Fusion 360 Design Files (.f3d):** Editable files for detailed design.
+- **STL Files:** Ready-to-slice models for 3D printing.
+- **G-Code Files:** Pre-generated code for printing.
+- **[Version Control Log and Metadata Sheet](https://docs.google.com/spreadsheets/d/1e0gY-1W_2MSWGN5Q40rwG2S-sfdZsmenmMunjMrRVBs/edit?usp=sharing):** Detailed documentation of design iterations.
 
-
-## :camera: Screenshots of the latest version:
-
-
-
+## :camera: Screenshots of the Latest Version(v1.2)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4bf79540-1165-4b4a-9cbf-c6d1ee04f529" alt="Tubby v1.2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/33eff50b-9f6e-4c75-96db-365f3f54b4a8" alt="Side View" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e363ff36-85e4-474b-ae94-94870884c9dd" alt="Top View" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1e16f5f5-ee5e-4bdc-84e5-d8d2684df586" alt="Mounting holes for Pontoons" width="300"/>
+  <img src="https://github.com/user-attachments/assets/768cc7a4-bde6-4c13-9598-36f2c37f6e4e" alt="Rudder Assembly" width="300"/>
+</div>
 
 ## :link: Links
-- **Github Org:** [Open-Source-Autonomous-Boat](https://github.com/Open-Source-Autonomous-Boat/)
+- **GitHub Organization:** [Open-Source-Autonomous-Boat](https://github.com/Open-Source-Autonomous-Boat/)
 - **Website:** [osab.xyz](https://osab.xyz/)
-- **Discord:** [links.osab.xyz/discord](https://links.osab.xyz/discord)
+- **Discord:** [Join our Discord](https://links.osab.xyz/discord)
 - **Email:** [osab.project@gmail.com](mailto:osab.project@gmail.com)
 - **Instagram:** [@osab.project](https://links.osab.xyz/instagram)
-- **Support Us:** [GoFundMe](https://links.osab.xyz/gofundme)
-
-
-
-
