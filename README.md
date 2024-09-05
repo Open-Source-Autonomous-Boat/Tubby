@@ -15,7 +15,7 @@ Welcome to the repository for "Tubby," the prototype autonomous boat. This repos
   <img src="https://github.com/user-attachments/assets/e363ff36-85e4-474b-ae94-94870884c9dd" alt="Top View" width="300" height="225"/>
   <img src="https://github.com/user-attachments/assets/1e16f5f5-ee5e-4bdc-84e5-d8d2684df586" alt="Mounting holes for Pontoons" width="300" height="225"/>
   <img src="https://github.com/user-attachments/assets/768cc7a4-bde6-4c13-9598-36f2c37f6e4e" alt="Rudder Assembly" width="300" height="225"/>
-</div>
+</div>  
 
 ## :link: Links
 - **GitHub Organization:** [Open-Source-Autonomous-Boat](https://github.com/Open-Source-Autonomous-Boat/)
